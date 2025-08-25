@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-wallet",
+  "version": "0.1.0",
+  "description": "A simple blockchain wallet demo to showcase basic understanding of blockchain concepts.",
+  "author": "Jose Grijalva",
+  "main": "src/demo.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/demo.js",
+    "dev": "node --watch src/demo.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
